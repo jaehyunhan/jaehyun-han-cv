@@ -27,12 +27,10 @@ with Research Distinction, The Ohio State University *(December 2020)*
 **Research Assistant** @ [iDeas Lab](https://www.csis.org/programs/dracopoulos-ideas-lab), [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2022 - Present)* <br/>
 Washington D.C., United States 
 * Developed a webscrapper for an open-source database using Python BeautifulSoup, delivered monthly update reports, provided quantitative and qualitative research support related to Chinese shipbuilding industry and the People's Liberation Army Navy (PLAN), and contributed to data analysis for the [report](https://features.csis.org/china-shadow-warships/) content.
-* Significant founding contributions for two research initiatives focusing on China's infrastructure development and military modernization projects: Hidden Reach and Pacific.
-* Pacific: researched historic records to establish a database and create kmz files to support initial screening of satellite imgery analysis. 
-* Part of establishing a data visualization guideline for the Center.
-* Served as a data mentor for [CSIS Journalism Bootcamp](link to below) and provided guidance on using data for policy report prior to and during the program.  
-* Recruited, trained, oversaw, and mentored one to two research interns per semester.   
-* Provide quantitative and qualitative research support and visualizations in Datawrapper and RAWGraphs.
+* Significant research contribution in a series of projects focusing on China's infrastructure development and military modernization projects. 
+* Serve as a data mentor for [CSIS Journalism Bootcamp](link to below) and provided guidance on data journalism and data visualization in policy reporting. 
+* Manage, train, and mentor research interns (one per semester).   
+* Provide quantitative and qualitative research support and visualizations in Datawrapper, Flourish, and RawGRAPH.
 * Conduct data analysis for research projects and operation, including center-wide DEI surveys, and deliver comprehensive analysis reports. <br/>
 
 **Market Intelligence Analyst Fellow** @ Market Intelligence & Data Analytics Team, [Rev1 Ventures](https://www.rev1ventures.com/) *(August 2021 - December 2021)* <br/>
