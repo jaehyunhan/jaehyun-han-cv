@@ -26,9 +26,9 @@ with Research Distinction, The Ohio State University *(December 2020)*
 ## 📑 **Professional Experiences**
 **Research Assistant** @ [iDeas Lab](https://www.csis.org/programs/dracopoulos-ideas-lab), [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2022 - Present)* <br/>
 Washington D.C., United States 
-* Developed a webscrapper for an open-source database using Python BeautifulSoup, delivered monthly update reports, provided quantitative and qualitative research support related to Chinese shipbuilding industry and the People's Liberation Army Navy (PLAN), and contributed to data analysis for the [report](https://features.csis.org/china-shadow-warships/) content.
+* Developed a webscrapper for an open-source database using Python BeautifulSoup, delivered monthly update reports, provided quantitative and qualitative research analysis related to Chinese shipbuilding industry and People's Liberation Army Navy (PLAN), and contributed to the [report](https://features.csis.org/china-shadow-warships/) content.
 * Significant research contribution in a series of projects focusing on China's infrastructure development and military modernization projects. 
-* Serve as a data mentor for [CSIS Journalism Bootcamp](link to below) and provided guidance on data journalism and data visualization in policy reporting. 
+* Serve as a data mentor for [CSIS Journalism Bootcamp](https://github.com/jaehyunhan/jaehyun-han-cv#-public-speakingleadership) and provided guidance on data journalism and data visualization in policy reporting. 
 * Manage, train, and mentor research interns (one per semester).   
 * Provide quantitative and qualitative research support and visualizations in Datawrapper, Flourish, and RawGRAPH.
 * Conduct data analysis for research projects and operation, including center-wide DEI surveys, and deliver comprehensive analysis reports. <br/>
@@ -51,21 +51,22 @@ Columbus, OH, United States
 Seoul, South Korea
 * Assisted dispatching economic delegation for South Korea's former President Moon Jae-In's first visit to D.C. <br/>
 
----
 
-## ✏️ **On The Side**
-
----
+--
 
 ## 🔊 **Public Speaking/Leadership**
 **[CSIS Journalism Bootcamp](https://journalism.csis.org/) Data Mentor** <br/>
 Each year, CSIS hosts four to five sessions of one-week long intensive Journalism Bootcamp for rising journalists, pursuing Bachelors and Masters degree, to produce multimedia reports on critical international issues. During the workshops, CSIS's iDeas Lab staff, including myself, serve as mentors in their respective areas such as broadcasting, web design, and data vsiualization.
-* 2022 DePaul
+* 2022 July - DePaul University 
 
 ---
 
 ## 👩‍💻 **Technologies/Programs**
-R, Python, Java, C/++, SQL, SPSS, Microsoft, ArcGIS, QGIS, Tableau, DataWrapper, RAWGraph
+R, Python, Java, C/++, SQL, SPSS, Microsoft, ArcGIS, QGIS, Tableau, DataWrapper, Flourish, RAWGraph
+
+---
+
+## ✏️ **On The Side**
 
 ---
 
