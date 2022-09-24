@@ -64,7 +64,7 @@ Seoul, South Korea
 * Assisted dispatching economic delegation for South Korea's former President Moon Jae-In's first visit to D.C. <br/>
 
 
---
+---
 
 ## 🔊 **Public Speaking/Leadership**
 **[CSIS Journalism Bootcamp](https://journalism.csis.org/) Data Mentor** <br/>
