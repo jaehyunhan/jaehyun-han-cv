@@ -11,7 +11,7 @@ In my current position, I use data to tell stories and draw data-driven analytic
 I mainly use Python, R, and Excel to perform data analysis and Flourish and Datawrapper for visualization. I'm also experienced in statistical modeling and programming languages, such as C/++, Java, and SQL, as well as geospatial analysis using QGIS and ArcGIS. Born and Raised in South Korea, I'm a native Korean speaker.
 <br/>
 <br/>
-My thematic focus of is the intersection of international security and supply chain, commerce, and technology and the regional focus is East Asia, specifically China and Korea. 
+My thematic focus is the intersection of international security and supply chain, commerce, and technology and the regional focus is East Asia, specifically China and Korea. 
 <br/>
 <br/> 
 I would love to hear from you about future collaborations and opportunities. Let's connect!
