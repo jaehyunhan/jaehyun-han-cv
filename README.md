@@ -1,11 +1,23 @@
 
 ![Jaehyun Han Profile Picture](https://user-images.githubusercontent.com/45862440/157793704-7a918de7-e6ae-4d31-a11d-6dad3320a830.jpg)
  <br/>
-*Hello-* I'm a Research Assistant for the iDeas Lab at the [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) based in Washington D.C., United States.<br/>
+*Hello-* I'm a Research Assistant for the iDeas Lab at the [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) based in Washington D.C., United States. 
+I'm passionate about working with numbers to analyze issues that may threaten international security. 
 <br/>
-View my professional profile [here](https://www.csis.org/people/jaehyun-han).
-
-[Email](jhan@csis.org) | [LinkedIn](https://www.linkedin.com/in/jaehyunhan1109/) | [Twitter](https://twitter.com/Jaehyunhan_)  
+<br/>
+In my current position, I use data to tell stories and draw data-driven analytical results. I work closely with multimedia producers, web developers, and designers, as well as domain experts, to make digital products involving data analysis and visualization. 
+<br/>
+<br/>
+I mainly use Python, R, and Excel to perform data analysis and Flourish and Datawrapper for visualization. I'm also experienced in statistical modeling and programming languages, such as C/++, Java, and SQL, as well as geospatial analysis using QGIS and ArcGIS. Born and Raised in South Korea, I'm a native Korean speaker.
+<br/>
+<br/>
+My thematic focus of is the intersection of international security and supply chain, commerce, and technology and the regional focus is East Asia, specifically China and Korea. 
+<br/>
+<br/> 
+I would love to hear from you about future collaborations and opportunities. Let's connect!
+<br/>
+<br/>
+[Email](maiito:jaehyunhan1109@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jaehyunhan1109/)  
 <br/>
 
 ---
@@ -26,12 +38,12 @@ with Research Distinction, The Ohio State University *(December 2020)*
 ## 📑 **Professional Experiences**
 **Research Assistant** @ [iDeas Lab](https://www.csis.org/programs/dracopoulos-ideas-lab), [Center for Strategic and International Studies (CSIS)](https://www.csis.org/) *(January 2022 - Present)* <br/>
 Washington D.C., United States 
-* Developed a webscrapper for an open-source database using Python BeautifulSoup, delivered monthly update reports, provided quantitative and qualitative research analysis related to Chinese shipbuilding industry and People's Liberation Army Navy (PLAN), and contributed to the [report](https://features.csis.org/china-shadow-warships/) content.
-* Significant research contribution in a series of projects focusing on China's infrastructure development and military modernization projects. 
-* Serve as a data mentor for [CSIS Journalism Bootcamp](https://github.com/jaehyunhan/jaehyun-han-cv#-public-speakingleadership) and provided guidance on data journalism and data visualization in policy reporting. 
-* Manage, train, and mentor research interns (one per semester).   
-* Provide quantitative and qualitative research support and visualizations in Datawrapper, Flourish, and RawGRAPH.
-* Conduct data analysis for research projects and operation, including center-wide DEI surveys, and deliver comprehensive analysis reports. <br/>
+* Developed a webscrapper for an open-source database using Python BeautifulSoup, delivered monthly update reports, conducted quantitative and qualitative research for a published [report](https://features.csis.org/china-shadow-warships/).
+* Provided significant research contribution in a series of projects focusing on China's infrastructure development and military modernization projects.
+* Lead data-driven research initiatives and the related weekly meetings with external partners. 
+* Serve as a data mentor for CSIS Journalism Bootcamp and provided guidance on data journalism and data visualization in policy reporting. 
+* Manage, train, and mentor research interns.   
+* Conduct data analysis for research projects and operation, including center-wide DEI surveys, and deliver comprehensive analysis reports with visualizations. <br/>
 
 **Market Intelligence Analyst Fellow** @ Market Intelligence & Data Analytics Team, [Rev1 Ventures](https://www.rev1ventures.com/) *(August 2021 - December 2021)* <br/>
 Columbus, OH, United States
@@ -56,7 +68,7 @@ Seoul, South Korea
 
 ## 🔊 **Public Speaking/Leadership**
 **[CSIS Journalism Bootcamp](https://journalism.csis.org/) Data Mentor** <br/>
-Each year, CSIS hosts four to five sessions of one-week long intensive Journalism Bootcamp for rising journalists, pursuing Bachelors and Masters degree, to produce multimedia reports on critical international issues. During the workshops, CSIS's iDeas Lab staff, including myself, serve as mentors in their respective areas such as broadcasting, web design, and data vsiualization.
+Each year, CSIS hosts four to five sessions of one-week long Journalism Bootcamp for rising journalists where students produce multimedia reports on critical international issues. During the workshops, CSIS's iDeas Lab staff, including myself, serve as mentors.
 * 2022 July - DePaul University 
 
 ---
