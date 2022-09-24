@@ -17,7 +17,7 @@ My thematic focus of is the intersection of international security and supply ch
 I would love to hear from you about future collaborations and opportunities. Let's connect!
 <br/>
 <br/>
-[Email](maiito:jaehyunhan1109@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jaehyunhan1109/)  
+[Email](mailto:jaehyunhan1109@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jaehyunhan1109/)  
 <br/>
 
 ---
