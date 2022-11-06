@@ -63,7 +63,7 @@ Columbus, OH, United States
 **Intern** @ Columbus International Program, US Together, Inc. *(August 2018 - December 2018)* <br/>
 Columbus, OH, United States
 *	Coordinated international programs and assisted foreign delegates and professionals visiting Columbus for business, professional development, and cultural exchange. <br/>
-*	Managed a partner organization from Rwanda and Bulgaria. Facilitated partnership opportunities between the partner organizations and local companies and various programs of the Ohio State University. </br>
+*	Managed partner organizations from Rwanda and Bulgaria. Facilitated partnership opportunities between the partner organizations and local companies and various programs of the Ohio State University. <br/>
 *	Involved in annual review writing, website updates, grant writing and funding research, fundraising, nonprofit marketing, etc. <br/>
 
 
